@@ -1,1 +1,1 @@
-# advent-of-code-2022-r
+# advent-of-code-2022-R
